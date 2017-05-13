@@ -2,4 +2,4 @@
 
 Repositório de estudos do git
 
-Estude!
+Estude e será um bom programador!
